@@ -84,8 +84,8 @@ school = [
         "mujeres": 60,
         "graduados": 18
     }
-]```
-
+]
+```
 ## A tener en cuenta
 Esto lo cuento con mis palabras, no añadí referencia, ya que estudie hace años estos conceptos y no me acuerdo de la bibliografía. De todas formas, si te interesa crecer en esto, te recomiendo la certificación de IBM.
 
